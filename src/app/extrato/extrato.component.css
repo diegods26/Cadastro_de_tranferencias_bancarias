@@ -1,0 +1,36 @@
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+.tabela{    
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+.table__head{
+    color: #458146;
+}
+.table__titulo{
+    padding: 15px;
+    border-radius: 2px solid #458146;
+}
+.table__linha{
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+.table__conteudo{
+    padding: 10px;
+    border-bottom: 1px solid #458146;
+}
+.template__conteudo{
+    color: #458146;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(231, 231, 245);
+}

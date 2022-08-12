@@ -1,0 +1,23 @@
+header {
+    height: 50px;
+    background-color: #458146;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }
+p{
+    font-size: 20px;
+    font-weight: 500;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 19;
+  }
+  .ativo{
+    display: none;
+  }
